@@ -1,10 +1,6 @@
-Hello,
-
-The following is my solution to the OnScreenKeyboard problem I received from Truefit.
-I received the problem on the evening of Tuesday, June 14th and I am submitting the pull 
-request at noon on Saturday, June 18th.
-Thank you in advance for the time you spend reviewing my code.
-
+#redacted#
+The following is my solution to the OnScreenKeyboard problem I received from #redacted#
+#redacted#
 The solution is written in C#/WPF and the VS2015 project files are included.  
 Please note that .NET Framework 4.5.2 is required to run the binaries.
 
@@ -33,10 +29,4 @@ Edge Cycling
   With edge cycling, you jump to column 5.  This is the way most onscreen keyboards work (for efficiency).
   You can turn on edge cycling with the "Cycle Edges" checkedit (it always defaults to off as it can effect the path).
   
-If you have any issues spinning up the demo or sources, please contact me at:
-richard.kisic@gmail.com
-724-454-2685
-
-Thanks again!
-Best,
-Rich  
+#redacted#
